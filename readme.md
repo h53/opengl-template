@@ -1,4 +1,4 @@
-![](https://travis-ci.com/h53/opengl-template.svg?token=ZWSspwdzWdSEsb28Yoff&branch=main)  
+![](https://travis-ci.com/h53/opengl-template.svg?branch=master)  
 This is a blank template for OpenGL, with glfw and glad.  
  Thank https://learnopengl.com/ for making the wonderful tutorial.
 
