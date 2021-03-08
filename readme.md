@@ -4,7 +4,7 @@ This is a blank template for OpenGL, with glfw and glad.
 
 ## how to use
 ```bash
-$ git clone git@github.com:h53/opengl-template.git
+$ git clone https://github.com/h53/opengl-template.git
 $ cd opengl-template
 $ mkdir build
 $ cd build
